@@ -5,6 +5,7 @@ This is a training app based on HTML, CSS, JS and Media Devices WEB API.
 ![image](https://user-images.githubusercontent.com/113175990/232356288-f06f38d9-317b-4d93-90c6-d7f67f1c308a.png)
 <br><br>
 ## Main Idea
+- Check the steps by clicking the background corgi
 - Prompt user to select media source on button click.
 - Dynamically insert selected media stream into DOM.
 - Enable Picture in Picture mode with button click.
